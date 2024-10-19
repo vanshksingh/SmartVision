@@ -1,0 +1,5 @@
+
+train: /Users/vanshkumarsingh/Desktop/Flipkart/datasets/train/images
+val: /Users/vanshkumarsingh/Desktop/Flipkart/datasets/val/images
+nc: 3
+names: ['apple', 'banana', 'packet']

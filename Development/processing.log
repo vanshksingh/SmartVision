@@ -1,0 +1,429 @@
+2024-10-19 02:47:45,438 [INFO] Loaded image: sample_image.jpg
+2024-10-19 02:47:45,961 [ERROR] Error in extract_product_details: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:48:06,466 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/test2.png
+2024-10-19 02:48:06,913 [ERROR] Error in extract_product_details: 'dict' object has no attribute 'columns'
+2024-10-19 02:50:41,402 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/test2.png
+2024-10-19 02:50:41,880 [INFO] OCR Detected Text: KADAK TEA Ö Strong Taste
+2024-10-19 02:50:41,881 [ERROR] Error calling Ollama model: module 'ollama' has no attribute 'run'
+2024-10-19 02:50:41,881 [INFO] Ollama Response: 
+2024-10-19 02:52:35,204 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/test2.png
+2024-10-19 02:52:35,933 [INFO] OCR Detected Text: KADAK TEA Ö Strong Taste
+2024-10-19 02:52:35,960 [ERROR] Ollama API Error 404: 404 page not found
+2024-10-19 02:52:35,960 [INFO] Ollama Response: 
+2024-10-19 02:53:42,809 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/test2.png
+2024-10-19 02:53:43,233 [INFO] OCR Detected Text: KADAK TEA Ö Strong Taste
+2024-10-19 02:53:47,141 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 02:53:47,147 [INFO] Ollama Response: ```json
+{
+  "brand_name": "KADAK",
+  "expiry_date": null,
+  "package_size": null
+}
+```
+2024-10-19 02:53:47,147 [ERROR] Failed to parse Ollama response as JSON.
+2024-10-19 02:55:29,695 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/test2.png
+2024-10-19 02:55:30,129 [INFO] OCR Detected Text: KADAK TEA Ö Strong Taste
+2024-10-19 02:55:34,225 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 02:55:34,228 [INFO] Ollama Raw Response: {
+  "brand_name": "KADAK",
+  "expiry_date": null,
+  "package_size": null
+}
+2024-10-19 02:55:34,228 [INFO] Ollama Cleaned Response: {
+  "brand_name": "KADAK",
+  "expiry_date": null,
+  "package_size": null
+}
+2024-10-19 02:55:34,229 [INFO] Extracted Product Info: {'brand_name': 'KADAK', 'expiry_date': None, 'package_size': None}
+2024-10-19 02:58:43,753 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 02:58:43,754 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 02:58:44,315 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 02:58:44,630 [INFO] OCR Detected Text from Image 2: Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 02:58:44,630 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 02:58:49,661 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 02:58:49,665 [INFO] Ollama Raw Response: {
+  "brand_name": "TATA",
+  "expiry_date": "not provided",
+  "package_size": "3054"
+}
+2024-10-19 02:58:49,666 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA",
+  "expiry_date": "not provided",
+  "package_size": "3054"
+}
+2024-10-19 02:58:49,666 [INFO] Extracted Product Info: {'brand_name': 'TATA', 'expiry_date': 'not provided', 'package_size': '3054'}
+2024-10-19 02:59:54,851 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 02:59:54,852 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 02:59:55,345 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 02:59:55,657 [INFO] OCR Detected Text from Image 2: Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 02:59:55,657 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 02:59:59,946 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 02:59:59,948 [INFO] Ollama Raw Response: {
+    "brand_name": "TATA",
+    "expiry_date": null,
+    "package_size": "2L"
+}
+2024-10-19 02:59:59,948 [INFO] Ollama Cleaned Response: {
+    "brand_name": "TATA",
+    "expiry_date": null,
+    "package_size": "2L"
+}
+2024-10-19 02:59:59,948 [INFO] Extracted Product Info: {'brand_name': 'TATA', 'expiry_date': None, 'package_size': '2L'}
+2024-10-19 03:00:27,368 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 03:00:27,369 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 03:00:27,871 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 03:00:28,176 [INFO] OCR Detected Text from Image 2: Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 03:00:28,177 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 03:00:30,615 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 03:00:30,617 [INFO] Ollama Raw Response: {
+  "brand_name": "TATA",
+  "expiry_date": null,
+  "package_size": "2L"
+}
+2024-10-19 03:00:30,618 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA",
+  "expiry_date": null,
+  "package_size": "2L"
+}
+2024-10-19 03:00:30,618 [INFO] Extracted Product Info: {'brand_name': 'TATA', 'expiry_date': None, 'package_size': '2L'}
+2024-10-19 03:00:47,944 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 03:00:47,944 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 03:00:48,452 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 03:00:48,758 [INFO] OCR Detected Text from Image 2: Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 03:00:48,758 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 03:00:50,630 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 03:00:50,631 [INFO] Ollama Raw Response: ```json
+{
+  "brand_name": "Tata Tea",
+  "expiry_date": "Elaichi Chai Fanured Tea images are for lustrazion purpose",
+  "package_size": "9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2"
+}
+```
+2024-10-19 03:00:50,631 [INFO] Ollama Cleaned Response: {
+  "brand_name": "Tata Tea",
+  "expiry_date": "Elaichi Chai Fanured Tea images are for lustrazion purpose",
+  "package_size": "9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2"
+}
+2024-10-19 03:00:50,632 [INFO] Extracted Product Info: {'brand_name': 'Tata Tea', 'expiry_date': 'Elaichi Chai Fanured Tea images are for lustrazion purpose', 'package_size': '9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2'}
+2024-10-19 03:01:09,031 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 03:01:09,031 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 03:01:09,476 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 03:01:09,764 [INFO] OCR Detected Text from Image 2: Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 03:01:09,764 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 03:01:11,767 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 03:01:11,768 [INFO] Ollama Raw Response: ```json
+{
+  "brand_name": "TATA TEA",
+  "expiry_date": null,
+  "package_size": "500g"
+}
+```
+2024-10-19 03:01:11,769 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA TEA",
+  "expiry_date": null,
+  "package_size": "500g"
+}
+2024-10-19 03:01:11,769 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': None, 'package_size': '500g'}
+2024-10-19 03:03:28,496 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 03:03:28,496 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 03:03:29,004 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 03:03:29,314 [INFO] OCR Detected Text from Image 2: Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 03:03:29,314 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 03:03:32,153 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 03:03:32,156 [INFO] Ollama Raw Response: ```json
+{
+    "brand_name": "TATA TEA",
+    "expiry_date": "Unknown",
+    "package_size": "Unknown"
+}
+```
+2024-10-19 03:03:32,156 [INFO] Ollama Cleaned Response: {
+    "brand_name": "TATA TEA",
+    "expiry_date": "Unknown",
+    "package_size": "Unknown"
+}
+2024-10-19 03:03:32,156 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': 'Unknown', 'package_size': 'Unknown'}
+2024-10-19 05:38:32,312 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:38:32,314 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:38:32,747 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:38:33,058 [INFO] OCR Detected Text from Image 2: Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 05:38:33,058 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose Elaichi "Chai SHE: TH (9701 EEATATES AGNL 3054 21164** Elaichi Chai pacz in bach cace $M e laPY. UX, PEE lE. #R2
+2024-10-19 05:38:34,504 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:38:34,506 [INFO] Ollama Raw Response: ```json
+{
+    "brand_name": "TATA TEA",
+    "expiry_date": "Unknown",
+    "package_size": "1L"
+}
+```
+2024-10-19 05:38:34,506 [INFO] Ollama Cleaned Response: {
+    "brand_name": "TATA TEA",
+    "expiry_date": "Unknown",
+    "package_size": "1L"
+}
+2024-10-19 05:38:34,507 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': 'Unknown', 'package_size': '1L'}
+2024-10-19 05:42:49,185 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:42:49,186 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:42:49,633 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:42:49,857 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:42:49,857 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:42:51,614 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:42:51,615 [INFO] Ollama Raw Response: {
+  "brand_name": "TATA TEA",
+  "expiry_date": "12/09/24",
+  "package_size": "Net weight 1kg"
+}
+2024-10-19 05:42:51,615 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA TEA",
+  "expiry_date": "12/09/24",
+  "package_size": "Net weight 1kg"
+}
+2024-10-19 05:42:51,615 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': '12/09/24', 'package_size': 'Net weight 1kg'}
+2024-10-19 05:43:33,460 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:43:33,460 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:43:33,923 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:43:34,155 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:43:34,155 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:43:35,247 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:43:35,248 [INFO] Ollama Raw Response: ```json
+{
+    "brand_name": "",
+    "expiry_date": "12/09/24",
+    "package_size": ""
+}
+```
+2024-10-19 05:43:35,249 [INFO] Ollama Cleaned Response: {
+    "brand_name": "",
+    "expiry_date": "12/09/24",
+    "package_size": ""
+}
+2024-10-19 05:43:35,249 [INFO] Extracted Product Info: {'brand_name': 'Unknown', 'expiry_date': '12/09/24', 'package_size': 'Unknown'}
+2024-10-19 05:43:52,578 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:43:52,578 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:43:53,122 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:43:53,353 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:43:53,354 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:43:54,515 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:43:54,517 [INFO] Ollama Raw Response: ```json
+{
+  "brand_name": "TATA TEA",
+  "expiry_date": "12/09/24",
+  "package_size": "Unknown"
+}
+```
+2024-10-19 05:43:54,517 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA TEA",
+  "expiry_date": "12/09/24",
+  "package_size": "Unknown"
+}
+2024-10-19 05:43:54,517 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': '12/09/24', 'package_size': 'Unknown'}
+2024-10-19 05:44:11,588 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:44:11,589 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:44:12,017 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:44:12,243 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:44:12,243 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:44:13,422 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:44:13,424 [INFO] Ollama Raw Response: ```json
+{
+    "brand_name": "TATA TEA",
+    "expiry_date": "12/09/24",
+    "package_size": ""
+}
+```
+2024-10-19 05:44:13,425 [INFO] Ollama Cleaned Response: {
+    "brand_name": "TATA TEA",
+    "expiry_date": "12/09/24",
+    "package_size": ""
+}
+2024-10-19 05:44:13,425 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': '12/09/24', 'package_size': 'Unknown'}
+2024-10-19 05:44:18,025 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:44:18,025 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:44:18,522 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:44:18,742 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:44:18,742 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:44:19,792 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:44:19,794 [INFO] Ollama Raw Response: ```json
+{
+  "brand_name": "",
+  "expiry_date": "12/09/24",
+  "package_size": "Net weight 1kg"
+}
+```
+2024-10-19 05:44:19,794 [INFO] Ollama Cleaned Response: {
+  "brand_name": "",
+  "expiry_date": "12/09/24",
+  "package_size": "Net weight 1kg"
+}
+2024-10-19 05:44:19,794 [INFO] Extracted Product Info: {'brand_name': 'Unknown', 'expiry_date': '12/09/24', 'package_size': 'Net weight 1kg'}
+2024-10-19 05:52:25,839 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:52:25,840 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:52:26,475 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:52:26,722 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:52:26,722 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:52:26,724 [ERROR] Error calling Ollama model: [Errno 61] Connection refused
+2024-10-19 05:52:26,724 [INFO] Ollama Raw Response: 
+2024-10-19 05:52:46,255 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:52:46,255 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:52:46,642 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:52:46,851 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:52:46,851 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:52:49,489 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:52:49,490 [INFO] Ollama Raw Response: ```json
+{
+    "brand_name": "Unknown",
+    "expiry_date": "12/09/24",
+    "package_size": "net weight 1kg"
+}
+```
+2024-10-19 05:52:49,490 [INFO] Ollama Cleaned Response: {
+    "brand_name": "Unknown",
+    "expiry_date": "12/09/24",
+    "package_size": "net weight 1kg"
+}
+2024-10-19 05:52:49,490 [INFO] Extracted Product Info: {'brand_name': 'Unknown', 'expiry_date': '12/09/24', 'package_size': 'net weight 1kg'}
+2024-10-19 05:52:56,655 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:52:56,656 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:52:57,114 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:52:57,333 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:52:57,333 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:52:58,192 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:52:58,192 [INFO] Ollama Raw Response: ```json
+{
+    "brand_name": "TATA TEA",
+    "expiry_date": "12/09/24",
+    "package_size": "Unknown"
+}
+```
+2024-10-19 05:52:58,192 [INFO] Ollama Cleaned Response: {
+    "brand_name": "TATA TEA",
+    "expiry_date": "12/09/24",
+    "package_size": "Unknown"
+}
+2024-10-19 05:52:58,192 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': '12/09/24', 'package_size': 'Unknown'}
+2024-10-19 05:53:02,935 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:53:02,935 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:53:03,344 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:53:03,556 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:03,556 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:04,240 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:53:04,240 [INFO] Ollama Raw Response: ```json
+{
+    "brand_name": "",
+    "expiry_date": "12/09/24",
+    "package_size": ""
+}
+```
+2024-10-19 05:53:04,240 [INFO] Ollama Cleaned Response: {
+    "brand_name": "",
+    "expiry_date": "12/09/24",
+    "package_size": ""
+}
+2024-10-19 05:53:04,241 [INFO] Extracted Product Info: {'brand_name': 'Unknown', 'expiry_date': '12/09/24', 'package_size': 'Unknown'}
+2024-10-19 05:53:08,805 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:53:08,806 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:53:09,223 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:53:09,442 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:09,442 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:10,395 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:53:10,396 [INFO] Ollama Raw Response: ```json
+{
+  "brand_name": "TATA TEA",
+  "expiry_date": "12/09/24",
+  "package_size": "Net Weight: 974g"
+}
+```
+2024-10-19 05:53:10,396 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA TEA",
+  "expiry_date": "12/09/24",
+  "package_size": "Net Weight: 974g"
+}
+2024-10-19 05:53:10,396 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': '12/09/24', 'package_size': 'Net Weight: 974g'}
+2024-10-19 05:53:32,709 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:53:32,709 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:53:33,149 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:53:33,370 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:33,370 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:36,595 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:53:36,600 [INFO] Ollama Raw Response: {
+  "brand_name": "TATA",
+  "expiry_date": "12/09/24",
+  "package_size": "unknown"
+}
+2024-10-19 05:53:36,600 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA",
+  "expiry_date": "12/09/24",
+  "package_size": "unknown"
+}
+2024-10-19 05:53:36,600 [INFO] Extracted Product Info: {'brand_name': 'TATA', 'expiry_date': '12/09/24', 'package_size': 'unknown'}
+2024-10-19 05:53:43,522 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:53:43,523 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:53:44,035 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:53:44,281 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:44,282 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:45,868 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:53:45,870 [INFO] Ollama Raw Response: {
+  "brand_name": "TATA",
+  "expiry_date": "12/09/24",
+  "package_size": "Net weight"
+}
+2024-10-19 05:53:45,870 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA",
+  "expiry_date": "12/09/24",
+  "package_size": "Net weight"
+}
+2024-10-19 05:53:45,870 [INFO] Extracted Product Info: {'brand_name': 'TATA', 'expiry_date': '12/09/24', 'package_size': 'Net weight'}
+2024-10-19 05:53:53,567 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:53:53,568 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:53:54,077 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:53:54,313 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:54,314 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:53:55,821 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:53:55,823 [INFO] Ollama Raw Response: {
+  "brand_name": "TATA",
+  "expiry_date": "12/09/24",
+  "package_size": "Unknown"
+}
+2024-10-19 05:53:55,823 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA",
+  "expiry_date": "12/09/24",
+  "package_size": "Unknown"
+}
+2024-10-19 05:53:55,823 [INFO] Extracted Product Info: {'brand_name': 'TATA', 'expiry_date': '12/09/24', 'package_size': 'Unknown'}
+2024-10-19 05:58:17,924 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:58:17,924 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:58:18,530 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:58:18,816 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:58:18,816 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:58:22,738 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:58:22,740 [INFO] Ollama Raw Response: ```json
+{
+  "brand_name": "TATA TEA",
+  "expiry_date": "12/09/24",
+  "package_size": ""
+}
+```
+2024-10-19 05:58:22,741 [INFO] Ollama Cleaned Response: {
+  "brand_name": "TATA TEA",
+  "expiry_date": "12/09/24",
+  "package_size": ""
+}
+2024-10-19 05:58:22,741 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': '12/09/24', 'package_size': 'Unknown'}
+2024-10-19 05:58:28,177 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/front.png
+2024-10-19 05:58:28,178 [INFO] Loaded image: /Users/vanshkumarsingh/Desktop/back.png
+2024-10-19 05:58:28,597 [INFO] OCR Detected Text from Image 1: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose
+2024-10-19 05:58:28,827 [INFO] OCR Detected Text from Image 2: NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:58:28,827 [INFO] Combined OCR Detected Text: TATA TEA AGNI JOSH JAGAYE HAR ROZ Elaichi Chai Fanured Tea images are for lustrazion purpose NET WIISHT Exp: 12/09/24 MRP: 250 Elaichi "Chai Sit: Ta 974) Wear Far mig, int broke, mut the pace in bach cace 3M warpdat Menroth - 185 20 BEATATES AGNL 305421164** Elaichi Chai
+2024-10-19 05:58:29,742 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-10-19 05:58:29,743 [INFO] Ollama Raw Response: ```json
+{
+    "brand_name": "TATA TEA",
+    "expiry_date": "12/09/24",
+    "package_size": "net weight 1kg"
+}
+```
+2024-10-19 05:58:29,743 [INFO] Ollama Cleaned Response: {
+    "brand_name": "TATA TEA",
+    "expiry_date": "12/09/24",
+    "package_size": "net weight 1kg"
+}
+2024-10-19 05:58:29,743 [INFO] Extracted Product Info: {'brand_name': 'TATA TEA', 'expiry_date': '12/09/24', 'package_size': 'net weight 1kg'}

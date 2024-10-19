@@ -1,0 +1,1204 @@
+2024-10-19 02:11:41,891 [INFO] Starting real-time detection script.
+2024-10-19 02:11:41,919 [INFO] YOLO model loaded successfully.
+2024-10-19 02:11:42,108 [INFO] ResNet model loaded successfully.
+2024-10-19 02:11:50,251 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:50,831 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:51,351 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:11:52,414 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:53,206 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:54,005 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:55,011 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:55,825 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:57,129 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:57,938 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:58,554 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:11:59,107 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:02,255 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:03,111 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:04,142 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:05,960 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:06,121 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:06,619 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:07,095 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:07,565 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:07,934 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:08,066 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:08,613 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:09,146 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:09,641 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:10,101 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:10,536 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:10,969 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:11,399 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:11,836 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:12,265 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:12,725 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:13,158 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:14,689 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:14,789 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:14,819 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:15,174 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:15,542 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:15,907 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:16,404 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:16,950 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:17,449 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:17,936 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:20,511 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:20,854 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:21,202 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:21,209 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:21,902 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:22,905 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:24,483 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:25,053 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:25,796 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:25,884 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:26,511 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:26,593 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:26,622 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:27,253 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:27,880 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:28,523 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:29,160 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:29,782 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:30,420 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:31,023 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:31,096 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:31,505 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:33,863 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:35,537 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:36,899 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:39,416 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:39,787 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:40,192 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:40,549 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:40,921 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:41,292 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:41,652 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:42,020 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:42,539 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:43,151 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:43,504 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:43,710 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:43,717 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:44,276 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:44,302 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:44,894 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:45,561 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:45,573 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:45,925 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:46,841 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:47,760 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:48,106 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:48,314 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:48,662 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:48,908 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:49,264 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:49,632 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:49,998 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:50,015 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:50,369 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:50,744 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:51,113 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:51,487 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:51,970 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:12:54,440 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:54,972 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:55,572 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:12:57,196 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:00,951 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:04,821 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:05,583 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:05,676 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:06,060 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:06,687 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:06,730 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:07,215 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:07,255 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:07,769 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:07,812 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:08,182 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:08,419 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:08,809 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:08,928 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:09,489 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:09,610 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:10,044 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:10,193 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:10,655 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:10,822 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:11,372 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:11,522 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:11,911 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:12,172 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:12,859 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:20,932 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:24,075 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:24,768 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:25,640 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:26,479 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:26,810 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:27,649 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:28,463 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:29,280 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:29,925 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:32,495 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:32,630 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:33,033 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:36,147 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:36,584 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:37,015 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:37,439 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:37,758 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:38,587 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:39,427 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:42,124 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:43,096 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:43,123 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:43,152 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:43,589 [ERROR] Error in detecting product info: 'dict' object has no attribute 'columns'
+2024-10-19 02:13:45,364 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:45,768 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:47,794 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:48,829 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:49,273 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:49,639 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:50,000 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:51,072 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:52,185 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:52,702 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:53,192 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:53,622 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:54,063 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:54,130 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:54,626 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:13:56,600 [ERROR] Error in detecting product info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:22,525 [INFO] Loading YOLO model...
+2024-10-19 02:15:22,555 [INFO] YOLO model loaded successfully.
+2024-10-19 02:15:22,555 [INFO] Loading ResNet model...
+2024-10-19 02:15:22,731 [INFO] ResNet model loaded successfully.
+2024-10-19 02:15:22,731 [INFO] Starting real-time detection...
+2024-10-19 02:15:27,818 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:28,155 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:28,533 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:28,886 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:29,234 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:29,699 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:29,871 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:30,262 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:30,597 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:30,994 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:31,137 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:31,529 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:31,679 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:32,059 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:32,215 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:32,643 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:32,811 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:33,087 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:33,626 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:33,783 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:34,052 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:34,470 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:34,633 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:34,794 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:35,486 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:37,553 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:37,998 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:38,065 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:38,510 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:38,909 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:39,339 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:39,745 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:40,138 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:40,234 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:15:42,317 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:42,756 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:42,832 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:42,905 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,036 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,037 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,119 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,120 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,211 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,211 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,276 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,276 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,339 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,340 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,411 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,412 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,472 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,472 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,538 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,539 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,607 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,607 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,673 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,674 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,737 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,737 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,831 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,832 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,906 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,906 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,976 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:43,976 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,042 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,111 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,111 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,267 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:44,268 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,268 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,338 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,338 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,404 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,405 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,470 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,540 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,603 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,604 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,670 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,738 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,807 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,808 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,870 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,871 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,956 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:44,957 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,041 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,042 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,112 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,112 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,183 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,184 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,276 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,277 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,336 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,337 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,350 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:45,440 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,440 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,507 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,572 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,573 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,640 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,641 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,709 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,773 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,773 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,840 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,841 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,905 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,974 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:45,974 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,040 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,040 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,106 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,107 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,172 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,173 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,245 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,245 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,312 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,452 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:46,453 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,453 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,453 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,540 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,540 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,603 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,603 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,670 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,670 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,740 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,741 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,935 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:46,935 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:46,936 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,005 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,071 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,133 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,134 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,204 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,205 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,271 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,272 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,282 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:15:47,374 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,374 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,440 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,441 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,522 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,523 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,606 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,607 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,671 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,672 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,739 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,740 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,807 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,808 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,866 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,866 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,939 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:47,940 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,003 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,004 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,072 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,073 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,133 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,133 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,202 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,202 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,272 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,273 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,339 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,339 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,405 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,405 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,471 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,471 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,540 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,541 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,606 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,607 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,667 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,667 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,735 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,735 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,804 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,805 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,869 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,870 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,936 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:48,937 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,007 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,008 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,073 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,074 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,135 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,135 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,206 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,207 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,274 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,274 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,336 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,337 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,402 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,402 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,472 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,473 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,535 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,535 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,601 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,602 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,673 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,673 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,740 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,740 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,803 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,804 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,869 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,869 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,937 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:49,938 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,002 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,002 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,069 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,069 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,139 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,139 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,204 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,205 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,271 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,271 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,339 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,339 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,404 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,405 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,467 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,468 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,538 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,538 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,606 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,606 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,671 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,672 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,733 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,733 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,803 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,804 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,869 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,870 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,933 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:50,934 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,003 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,004 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,079 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,080 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,169 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,170 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,238 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,238 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,306 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,306 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,371 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,372 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,441 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,441 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,503 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,503 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,566 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,567 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,638 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,639 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,706 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,706 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,769 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,769 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,838 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,838 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,905 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,905 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,970 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:51,971 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,040 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,040 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,105 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,106 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,169 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,170 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,232 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,232 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,317 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,318 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,401 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,401 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,474 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,474 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,538 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,539 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,605 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,605 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,673 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,673 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,737 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,737 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,803 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,804 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,866 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,866 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,939 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:52,939 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,018 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,018 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,103 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,104 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,169 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,170 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,234 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,235 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,303 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,304 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,388 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,389 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,469 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,470 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,535 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,536 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,601 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,601 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,673 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,674 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,734 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,735 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,806 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,806 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,871 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,872 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,936 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:53,936 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,001 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,002 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,067 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,068 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,138 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,138 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,254 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,255 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,337 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,338 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,405 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,406 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,467 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,468 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,560 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,561 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,637 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,638 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,707 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,708 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,768 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,768 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,837 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,837 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,929 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:54,930 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,016 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,017 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,110 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,111 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,200 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,200 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,269 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,270 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,337 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,338 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,401 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,402 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,465 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,466 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,538 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,538 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,604 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,604 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,664 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,665 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,737 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,738 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,802 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,803 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,880 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,881 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,970 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:55,971 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,033 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,034 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,098 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,099 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,179 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,180 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,269 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,269 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,333 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,333 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,396 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,397 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,473 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,473 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,535 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,535 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,603 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,604 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,672 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,673 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,735 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,735 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,806 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,806 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,869 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,870 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,935 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,936 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,998 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:56,998 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,065 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,065 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,137 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,137 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,201 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,201 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,268 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,268 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,338 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,339 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,405 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,405 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,466 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,466 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,538 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,539 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,609 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,609 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,668 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,669 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,737 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,738 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,803 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,804 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,871 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,872 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,938 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:57,938 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,003 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,003 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,065 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,065 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,134 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,134 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,203 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,203 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,268 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,268 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,335 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:15:58,336 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:45,015 [INFO] Loading YOLO model...
+2024-10-19 02:17:45,045 [INFO] YOLO model loaded successfully.
+2024-10-19 02:17:45,045 [INFO] Loading ResNet model...
+2024-10-19 02:17:45,221 [INFO] ResNet model loaded successfully.
+2024-10-19 02:17:45,222 [INFO] resnet_model type: <class 'torchvision.models.resnet.ResNet'>
+2024-10-19 02:17:45,222 [INFO] Starting real-time detection...
+2024-10-19 02:17:48,306 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:49,313 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:49,646 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:50,970 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:50,972 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,041 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,041 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,107 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,107 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,170 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,170 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,235 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,305 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,365 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:51,385 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:51,480 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,570 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,635 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,714 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,805 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:51,857 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:51,940 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,007 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,072 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,137 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,226 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,271 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:52,345 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,417 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,507 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,570 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,640 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:52,882 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:17:52,975 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,041 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,105 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,171 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,234 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,537 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:53,538 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,602 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,602 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,667 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,667 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,734 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,734 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,804 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,805 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,805 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,806 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,868 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:53,869 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,185 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:54,274 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,274 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,334 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,334 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,402 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,402 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,403 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,472 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,472 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,537 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,537 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,857 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:54,939 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,939 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,999 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:54,999 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,067 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,067 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,138 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,139 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,204 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,205 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,525 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:55,601 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,602 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,669 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,669 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,733 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,734 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,802 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,803 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,972 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:17:55,972 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:55,973 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,296 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:17:56,371 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,372 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,372 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,431 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,432 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,497 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,498 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,568 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,569 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,633 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,634 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,704 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,705 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,768 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,768 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,836 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,837 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,900 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,900 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,968 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,969 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:56,969 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,039 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,040 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,041 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,100 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,100 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,101 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,170 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,170 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,171 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,237 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,237 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,238 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,300 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,300 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,301 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,364 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,364 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,365 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,433 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,434 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,434 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,502 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,502 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,503 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,568 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,569 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,569 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,636 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,637 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,638 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,708 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,709 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,709 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,769 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,770 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,835 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,835 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,836 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,900 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,901 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,968 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,969 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:57,969 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,037 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,037 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,104 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,105 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,170 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,171 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,234 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,234 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,303 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,303 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,368 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,368 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,435 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,436 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,501 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,502 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,502 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,570 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,571 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,636 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,637 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,637 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,705 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,706 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,707 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,769 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,770 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,832 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,833 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,901 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,901 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,966 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:58,967 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,035 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,036 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,036 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,107 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,108 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,108 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,171 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,171 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,172 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,231 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,232 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,232 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,301 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,301 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,302 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,369 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,370 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,432 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,432 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,503 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,503 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,569 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,570 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,632 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,633 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,633 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,701 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,702 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,768 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,768 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,845 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,846 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,939 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:17:59,940 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,004 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,005 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,006 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,077 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,078 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,078 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,172 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,172 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,237 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,238 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,307 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,308 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,370 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,370 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,437 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,438 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,502 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,502 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,576 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,577 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,707 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,707 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,708 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,775 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,776 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,865 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,865 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,996 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,997 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:00,997 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,079 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,079 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,181 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,181 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,271 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,272 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,362 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,363 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,449 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,450 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,536 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,537 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,537 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,601 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,602 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,602 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,666 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,667 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,667 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,738 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,738 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,739 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,803 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,803 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,804 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,868 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,869 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,933 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:01,934 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:02,000 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:02,001 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:02,067 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:02,068 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:02,131 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:02,131 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:02,132 [ERROR] Error in predict_image_with_freshness_index: 'tuple' object is not callable
+2024-10-19 02:18:34,553 [INFO] Loading YOLO model...
+2024-10-19 02:18:34,581 [INFO] YOLO model loaded successfully.
+2024-10-19 02:18:34,581 [INFO] Loading ResNet model...
+2024-10-19 02:18:34,758 [INFO] ResNet model loaded successfully.
+2024-10-19 02:18:34,760 [INFO] resnet_model type: <class 'torchvision.models.resnet.ResNet'>
+2024-10-19 02:18:34,760 [INFO] Starting real-time detection...
+2024-10-19 02:18:37,319 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:37,362 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:37,829 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:37,874 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:38,272 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:38,313 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:38,703 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:39,081 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:39,123 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:39,530 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:39,573 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:40,016 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:40,431 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:40,828 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:41,242 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:41,318 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:41,785 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:42,217 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:42,652 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:43,118 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:43,554 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:43,981 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:44,421 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:44,840 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:44,858 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:45,227 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:45,240 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:45,629 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:45,642 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:46,032 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:46,580 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:46,993 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:47,089 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:47,486 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:47,920 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:48,431 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:48,854 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:48,956 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:49,361 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:49,758 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:50,156 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:50,568 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:51,055 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:51,159 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:51,189 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:51,623 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:51,682 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:52,085 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:52,146 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:52,584 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:52,644 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:53,089 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:53,156 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:53,200 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:53,655 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:53,713 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:53,763 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:54,186 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:54,238 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:54,279 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:54,690 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:54,729 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:18:55,119 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:55,155 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:55,588 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:55,989 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:56,046 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:56,067 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:56,489 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:56,921 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:57,320 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:57,715 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:58,121 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:58,519 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:58,923 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:59,312 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:18:59,752 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:00,151 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:00,570 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:00,697 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:03,298 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:03,993 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:06,596 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:26,534 [INFO] Loading YOLO model...
+2024-10-19 02:19:26,566 [INFO] YOLO model loaded successfully.
+2024-10-19 02:19:26,566 [INFO] Loading ResNet model...
+2024-10-19 02:19:26,738 [INFO] ResNet model loaded successfully.
+2024-10-19 02:19:26,739 [INFO] Starting real-time detection...
+2024-10-19 02:19:31,080 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:31,749 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:32,089 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:33,187 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:33,557 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:34,453 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:35,005 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:35,746 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:36,026 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:36,611 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:36,904 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:40,535 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:41,671 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:41,871 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:42,185 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:43,064 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:44,012 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:44,949 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:45,345 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:46,016 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:47,057 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:47,748 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:48,501 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:48,638 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:48,817 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:19:49,515 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:50,138 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:50,779 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:51,372 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:52,501 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:55,290 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:55,850 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:55,964 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:57,016 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:58,040 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:19:58,707 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:00,808 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:03,403 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:09,845 [INFO] Loading YOLO model...
+2024-10-19 02:20:09,870 [INFO] YOLO model loaded successfully.
+2024-10-19 02:20:09,870 [INFO] Loading ResNet model...
+2024-10-19 02:20:10,049 [INFO] ResNet model loaded successfully.
+2024-10-19 02:20:10,049 [INFO] Starting real-time detection...
+2024-10-19 02:20:13,824 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:14,616 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:15,363 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:17,428 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:17,770 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:18,138 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:18,905 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:19,640 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:20,036 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:20,656 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:21,272 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:21,959 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:22,640 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:23,742 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:26,134 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:28,496 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:29,566 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:29,931 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:30,632 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:32,434 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:33,531 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:33,901 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:34,260 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:35,931 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:36,627 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:37,296 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:37,627 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:38,660 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:39,360 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:40,359 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:40,695 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:41,059 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:41,391 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:42,063 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:44,204 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:44,627 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:45,630 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:45,997 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:46,354 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:47,387 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:48,059 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:48,390 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:48,802 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:49,196 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:50,865 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:50,873 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:51,889 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:52,229 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:53,392 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:54,451 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:56,943 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:58,191 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:20:58,548 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:00,370 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:01,472 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:06,291 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:07,690 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:08,387 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:09,552 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:12,682 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:13,058 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:14,479 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:15,510 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:18,721 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:23,918 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:24,616 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:30,446 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:30,802 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:31,554 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:32,975 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:33,739 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:34,808 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:35,911 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:39,674 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:40,051 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:21:40,777 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:39,647 [INFO] Loading YOLO model...
+2024-10-19 02:22:39,679 [INFO] YOLO model loaded successfully.
+2024-10-19 02:22:39,679 [INFO] Loading ResNet model...
+2024-10-19 02:22:39,853 [INFO] ResNet model loaded successfully.
+2024-10-19 02:22:39,853 [INFO] Starting real-time detection...
+2024-10-19 02:22:43,698 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:44,718 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:44,746 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:45,508 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:45,532 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:46,260 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:46,280 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:46,876 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:46,897 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:47,544 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:47,563 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:48,177 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:48,201 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:48,808 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:48,832 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:49,470 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:49,499 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:49,861 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:50,190 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:50,755 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:50,785 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:51,151 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:51,980 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:52,007 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:52,377 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:53,184 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:53,209 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:53,515 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:53,839 [ERROR] Error in detect_product_info: 'dict' object has no attribute 'columns'
+2024-10-19 02:22:54,185 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:54,193 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:54,201 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:54,557 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:54,566 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:54,574 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:54,955 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:54,963 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:55,325 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:55,333 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:55,692 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:55,700 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:56,101 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:56,110 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:56,489 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:56,497 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:56,505 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:56,967 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
+2024-10-19 02:22:56,976 [ERROR] Error in detect_product_info: not enough values to unpack (expected 3, got 0)
